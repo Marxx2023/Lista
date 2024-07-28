@@ -3,6 +3,33 @@
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVquop2kI7vIhYoAqsNyhCTMR76.jpg" group-title="DISNEY + ©", Deadpool (2016)
+http://magi-stv.net:8080/movie/daniel123/daniel123/80602.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVquop2kI7vIhYoAqsNyhCTMR76.jpg" group-title="DISNEY + FHD ©", Deadpool (2016)
+http://magi-stv.net:8080/movie/daniel123/daniel123/117052.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyGpPZ2gKvOFAz67VqlcAze4sH2.jpg" group-title="DISNEY + ©", Deadpool 2 (2018)
+http://magi-stv.net:8080/movie/daniel123/daniel123/80601.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyGpPZ2gKvOFAz67VqlcAze4sH2.jpg" group-title="DISNEY + FHD ©", Deadpool 2 (2018)
+http://magi-stv.net:8080/movie/daniel123/daniel123/117051.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSFps0AIeRiO1OAf0IDTbQyI1kg.jpg" group-title="COMEDIA ©", Érase una vez Deadpool (2018)
+http://magi-stv.net:8080/movie/daniel123/daniel123/81587.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qSRT5jOFUHoAigwK0xWFFXLUcD.jpg" group-title="ROMANTICAS ©", Las estrellas de cine no mueren en Liverpool (2017)
+http://magi-stv.net:8080/movie/daniel123/daniel123/76507.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" group-title="[CARTELERA CINE]  ©", Deadpool and Wolverine (2024)
+http://magi-stv.net:8080/movie/daniel123/daniel123/338265.mkv
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
 #EXTINF:-1 tvg-logo="http://tvlatino.club:2082/images/aaef34e885f94ec81b7063d39d85dc31.jpg" group-title="⭐CINE TERROR", Tusk (2014)
 http://tvlatino.club:2082/movie/iptv45A/NMBf8gGpuY3b/368959.mp4
 
